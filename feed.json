@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Anonymous proxies",
+    "description": "",
+    "home_page_url": "https://drsoftsrl.github.io/anon-kb",
+    "feed_url": "https://drsoftsrl.github.io/anon-kb/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Romeo Mihalcea"
+    },
+    "items": [
+        {
+            "id": "https://drsoftsrl.github.io/anon-kb/foobar.html",
+            "url": "https://drsoftsrl.github.io/anon-kb/foobar.html",
+            "title": "FooBar",
+            "summary": "asd asda sdf",
+            "content_html": "asd asda sdf",
+            "author": {
+                "name": "Romeo Mihalcea"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-23T15:57:40+02:00",
+            "date_modified": "2020-03-23T17:08:16+02:00"
+        }
+    ]
+}
